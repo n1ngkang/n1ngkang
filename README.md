@@ -1,6 +1,7 @@
 # Hi there, I'm Shani 👋
 
 > **Aspiring Systems Architect & Automation Enthusiast**
+> 
 > *Dedicated to bridging the gap between business processes and technical efficiency. Since late 2024, I have focused on transforming manual workflows into high-performance digital solutions.*
 
 ---
@@ -8,9 +9,9 @@
 ### 🛠️ What I do
 My work focuses on transforming fragmented, manual data processes into automated and scalable systems:
 
-* **⚡ Performance & Scale**: Specializing in overcoming platform limitations (e.g., GAS 6-min timeout) using **Asynchronous Trigger Chaining** and **Batch Processing** for large-scale datasets.
-* **🔗 Cross-Platform Integration**: Seamlessly linking **Python (Pandas)** for heavy data lifting with **Google Cloud/GAS** for cloud-native automation and UI interaction.
-* **🛡️ Data Integrity & Governance**: Designing multi-layered verification engines that resolve discrepancies and implement **Secure Credential Management** (Clasp/Script Properties).
+* **Performance & Scale**: Specializing in overcoming platform limitations (e.g., GAS 6-min timeout) using **Asynchronous Trigger Chaining** and **Batch Processing** for large-scale datasets.
+* **Cross-Platform Integration**: Seamlessly linking **Python (Pandas)** for heavy data lifting with **Google Cloud/GAS** for cloud-native automation and UI interaction.
+* **Data Integrity & Governance**: Designing multi-layered verification engines that resolve discrepancies and implement **Secure Credential Management** (Clasp/Script Properties).
 
 ### 🏆 Featured Projects
 
@@ -22,9 +23,12 @@ My work focuses on transforming fragmented, manual data processes into automated
 
 ### 🧰 Tech Stack & Toolbox
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=n1ngkang&layout=compact&theme=vision-friendly-dark&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1ngkang&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Shani's GitHub stats" />
+</p>
 
-**Languages** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**Languages** 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
