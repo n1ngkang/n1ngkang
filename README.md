@@ -15,7 +15,7 @@ My work focuses on transforming fragmented, manual data processes into automated
 
 ### 🏆 Featured Projects
 
-* **[Contracts Checking Tool](https://github.com/n1ngkang/Contract-Check-Tool)**: Developed an automated audit engine with multi-layered verification logic to detect complex RSV/Deposit billing discrepancies. Integrated a custom HTML5 sidebar for real-time error visualization and one-click data navigation, achieving a 90%+ boost in auditing efficiency.
+* **[Contract and Billing Verifier](https://github.com/n1ngkang/Contract-Check-Tool)**: Developed an automated audit engine with multi-layered verification logic to detect complex RSV/Deposit billing discrepancies. Integrated a custom HTML5 sidebar for real-time error visualization and one-click data navigation, achieving a 90%+ boost in auditing efficiency.
 
 * **[Customer Info Automated Update Engine](https://github.com/n1ngkang/Customer-Information-Automated-Updates)**: Engineered a hybrid Python-GAS pipeline to automate complex customer data reconciliation. Integrated Python (Pandas) for heavy data mapping with GAS for cloud-native triggers, incorporating a "human-in-the-loop" review system to ensure 100% data fidelity for sensitive updates.
 
