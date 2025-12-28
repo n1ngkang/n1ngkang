@@ -23,11 +23,8 @@ My work focuses on transforming fragmented, manual data processes into automated
 
 ### 🧰 Tech Stack & Toolbox
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1ngkang&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Shani's GitHub stats" />
-</p>
-
 **Languages** 
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
