@@ -2,7 +2,7 @@
 
 > **Aspiring Systems Architect & Automation Enthusiast**
 > 
-> *Dedicated to bridging the gap between business processes and technical efficiency. Since late 2024, I have focused on transforming manual workflows into high-performance digital solutions.*
+> *Dedicated to bridging the gap between business processes and technical efficiency. Since late 2025, I have focused on transforming manual workflows into high-performance digital solutions.*
 
 ---
 
